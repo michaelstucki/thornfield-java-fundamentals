@@ -1,4 +1,4 @@
-package arithmetic_arrays;
+package arithmetic_arrays_04;
 
 public class ArithmeticArrays {
     public static void main(String[] args) {

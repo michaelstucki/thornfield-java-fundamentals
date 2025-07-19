@@ -1,4 +1,4 @@
-package primitives;
+package primitives_03;
 
 public class Variables {
     public static void main(String[] args) {
